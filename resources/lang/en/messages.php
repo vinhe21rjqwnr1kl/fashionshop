@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'buy_now' => 'Buy Now',
+    'product_review' => 'PRODUCT OVERVIEW',
+    'introduce' => 'Free shipping for standard order over 100k',
+    'product_all' => 'All Products',
+    'shop_now' => 'Shop Now',
+    'help' => 'Help & FAQs',
+    'Categories' =>'Categories',
+    'Women' => 'Women',
+    'Men' => 'Men',
+    'Shoes' => 'Shoes',
+    'Watches' => 'Watches',
+    'Help' => 'Help',
+    'Track_Order' => 'Track Order',
+    'Returns' => 'Returns',
+    'Shipping' => 'Shipping',
+    'FAQs' => 'FAQs',
+    'GET_IN_TOUCH' => 'GET IN TOUCH',
+    'any' => 'Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879',
+    'Newsletter' => 'Newsletter',
+    'Subscribe' => 'Subscribe',
+    'Contact' => 'Contact',
+    'Send' => 'Send Us A Message',
+    'Address' => 'Address',
+    'CS' => 'Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US',
+    'Talk' => 'Lets Talk',
+    'Sale_Support' => 'Sale Support',
+    'YEA' => 'Your Email Address',
+    'Can_We' => 'How Can We Help?',
+    'SUBMIT' => 'SUBMIT'
+];
